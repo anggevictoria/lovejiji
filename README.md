@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lovejiji
+- 👋 Hi, I’m Angela 
 - 👀 I’m interested in creating Interactive Websites
 - 🌱 I’m currently learning php and mysql
 - 💞️ I’m looking to collaborate on any websites
